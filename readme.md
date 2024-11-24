@@ -118,3 +118,5 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Bootstrap | A library for building responsive, mobile first website | https://getbootstrap.com/docs/5.0/getting-started/introduction/ |
+| Font Awesome | A collection of icons | https://fontawesome.com/ |
